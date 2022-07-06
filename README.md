@@ -7,7 +7,7 @@ Since we are limited to 5 minutes for the tutorial, I thought of doing it increm
 ### Why GitHub?
 - GitHub brings more visibility to projects;
 - It is unlimited for public repositories;
-- However, it still offers 2000 CI minutes per month for private repositories (in contrast with 2000 minutes per year on GitLab);
+- It offers 2000 CI minutes per month for private repositories (GitLab only offers 2000 minutes per year);
 - GitHub Actions are easier to use;
 - You can always mirror you GitHub repository on GitLab to comply with DACS' workflow.
 
