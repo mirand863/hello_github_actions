@@ -1,5 +1,5 @@
 # Hello Github Actions
-This repository shows a basic example on how to use github actions for automatic version bumping.
+This repository shows a basic example on how to use GitHub Actions for automatic version bumping.
 
 ## Premise
 Since we are limited to 5 minutes for the tutorial, I thought of doing it incrementaly. Hence, today is only a short tutorial on automatic version bumping with the semantic versioning scheme.
