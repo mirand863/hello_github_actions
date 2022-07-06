@@ -5,7 +5,11 @@ This repository shows a basic example on how to use github actions for automatic
 Since we are limited to 5 minutes for the tutorial, I thought of doing it incrementaly. Hence, today is only a short tutorial on automatic version bumping with the semantic versioning scheme.
 
 ### Why GitHub?
-GitHub brings more visibility to projects and, as far as I know, it is unlimited for public repositories. However, it still offers 2000 CI minutes per month for private repositories (in contrast with 2000 minutes per year on GitLab). Furthermore, GitHub Actions are easier to use and you can always mirror you GitHub repository on GitLab to comply with DACS' workflow.
+- GitHub brings more visibility to projects;
+- It is unlimited for public repositories;
+- However, it still offers 2000 CI minutes per month for private repositories (in contrast with 2000 minutes per year on GitLab);
+- GitHub Actions are easier to use;
+- You can always mirror you GitHub repository on GitLab to comply with DACS' workflow.
 
 ## Semantic versioning
 Semantic Versioning is a versioning scheme for using meaningful version numbers (that is why it is called Semantic Versioning). Specifically, the meaning revolves around how API versions compare in terms of backwards-compatibility.
@@ -66,4 +70,13 @@ Try to update the README and see the tag being bumped on the tab actions.
 Try to create a pull request and use the tag #minor or #major (you can also just add the tag to the commit message).
 
 ## Next tutorial
-Is there any specific topic you would like to see in a future tutorial? For example, automatic versioning on GitLab, mirroring a GitHub repository on GitLab, automatically linting Python or R code, automatically testing Python or R code, automatic deployment to pypi and bioconda, etc.
+Is there any specific topic you would like to see in a future tutorial? For example:
+- [ ] Automatic versioning on GitLab
+- [ ] Mirroring a GitHub repository on GitLab
+- [ ] Automatically linting Python code
+- [ ] Automatically linting R code
+- [ ] Automatically testing Python code
+- [ ] Automatically testing R code
+- [ ] Automatic deployment to pypi
+- [ ] Automatic deployment to bioconda
+- [ ] Something else
