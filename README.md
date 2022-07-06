@@ -67,6 +67,7 @@ Try to update the README and see the tag being bumped on the tab actions
 
 ## Third step
 Try to create a pull request and use the tag #minor or #major
+You can also just add the tag to the commit message.
 
 ## Next tutorial
 Is there any specific topic you would like to see in a future tutorial? For example, automatic versioning on GitLab, mirroring a GitHub repository on GitLab, automatically linting Python or R code, automatically testing Python or R code, automatic deployment to pypi and bioconda, etc.
