@@ -79,6 +79,6 @@ Is there any specific topic you would like to see in a future tutorial? For exam
 - Automatically testing R code
 - Automatic deployment to pypi
 - Automatic deployment to bioconda
-- Something else (please add a comment on the poll below)
+- Something else
 
-You can vote [here](https://github.com/mirand863/hello_github_actions/discussions/4) or I can also create a poll on Mattermost.
+I will create a poll on Mattermost.
