@@ -1,6 +1,21 @@
 # Hello Github Actions
 This repository shows a basic example on how to use github actions for automatic version bumping.
 
+## Premise
+Since we are limited to 5 minutes for the tutorial, I thought of doing it incrementaly. Hence, today is only a short tutorial on automatic version bumping with the semantic versioning scheme.
+
+## Semantic versioning
+Semantic Versioning is a versioning scheme for using meaningful version numbers (that is why it is called Semantic Versioning). Specifically, the meaning revolves around how API versions compare in terms of backwards-compatibility.
+
+Given a version number `MAJOR.MINOR.PATCH`:
+| Version | Meaning |
+| -------------- | ------- |
+| MAJOR | incompatible API changes |
+| MINOR | add functionality (backwards-compatible) |
+| PATCH | bug fixes (backwards-compatible) |
+
+Further reading: [semver.org](https://semver.org/) and [cheatsheet](https://devhints.io/semver)
+
 ## First step
 Create a file called `.github/workflows/bump-version.yml` with the following content:
 
