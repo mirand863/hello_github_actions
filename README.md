@@ -24,6 +24,9 @@ Given a version number `MAJOR.MINOR.PATCH`:
 Further reading: [semver.org](https://semver.org/) and [cheatsheet](https://devhints.io/semver)
 
 ## First step
+Create a new, empty repository.
+
+## Second step
 Create a file called `.github/workflows/bump-version.yml` with the following content:
 
 ```yml
@@ -63,11 +66,8 @@ jobs:
           DEFAULT_BUMP: patch
 ```
 
-## Second step
-Try to update the README and see the tag being bumped on the tab actions.
-
 ## Third step
-Try to create a pull request and use the tag #minor or #major (you can also just add the tag to the commit message).
+Make some modification to any file and try to create a pull request and use the tag #minor or #major (you can also just add the tag to the commit message).
 
 ## Next tutorial
 Is there any specific topic you would like to see in a future tutorial? For example:
