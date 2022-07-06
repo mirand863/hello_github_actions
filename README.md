@@ -43,3 +43,9 @@ jobs:
           WITH_V: true
           DEFAULT_BUMP: patch
 ```
+
+## Second step
+Try to update the README and see the tag being bumped on the tab actions
+
+## Third step
+Try to create a pull request and use the tag #minor or #major
