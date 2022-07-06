@@ -6,10 +6,10 @@ Since we are limited to 5 minutes for the tutorial, I thought of doing it increm
 
 ### Why GitHub?
 - GitHub brings more visibility to projects;
+- It is possible to mirror a GitHub repository on GitLab to comply with DACS' workflow;
 - GitHub Actions are easier to use;
 - GitHub Actions is unlimited for public repositories;
-- GitHub offers 2000 CI minutes per month for private repositories (GitLab only offers 2000 minutes per year);
-- It is possible to mirror a GitHub repository on GitLab to comply with DACS' workflow.
+- GitHub offers 2000 CI minutes per month for private repositories (GitLab only offers 2000 minutes per year).
 
 ## Semantic versioning
 Semantic Versioning is a versioning scheme for using meaningful version numbers (that is why it is called Semantic Versioning). Specifically, the meaning revolves around how API versions compare in terms of backwards-compatibility.
