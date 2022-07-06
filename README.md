@@ -1,5 +1,5 @@
 # Hello Github Actions
-This repository shows a basic example on how to use github actions for automatic version bumping and testing
+This repository shows a basic example on how to use github actions for automatic version bumping
 
 ## First step
 Create a file called `.github/workflows/bump-version.yml` with the following content:
