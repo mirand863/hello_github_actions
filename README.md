@@ -81,4 +81,4 @@ Is there any specific topic you would like to see in a future tutorial? For exam
 - Automatic deployment to bioconda
 - Something else
 
-Can either vote [here on GitHub](https://github.com/mirand863/hello_github_actions/discussions/4) or I can create a poll on Mattermost.
+You can vote [here](https://github.com/mirand863/hello_github_actions/discussions/4).
