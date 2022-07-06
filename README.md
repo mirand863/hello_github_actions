@@ -5,7 +5,7 @@ This repository shows a basic example on how to use github actions for automatic
 Since we are limited to 5 minutes for the tutorial, I thought of doing it incrementaly. Hence, today is only a short tutorial on automatic version bumping with the semantic versioning scheme.
 
 ### Why GitHub?
-GitHub brings more visibility to projects and, as far as I know, it is unlimited for public repositories. However, it still offers 2000 CI minutes per month for private repositories (in contrast with 2000 minutes per year on GitLab). Furthermore, GitHub Actions are easier to use and you can always mirror you github repository on GitLab to comply with DACS' workflow.
+GitHub brings more visibility to projects and, as far as I know, it is unlimited for public repositories. However, it still offers 2000 CI minutes per month for private repositories (in contrast with 2000 minutes per year on GitLab). Furthermore, GitHub Actions are easier to use and you can always mirror you GitHub repository on GitLab to comply with DACS' workflow.
 
 ## Semantic versioning
 Semantic Versioning is a versioning scheme for using meaningful version numbers (that is why it is called Semantic Versioning). Specifically, the meaning revolves around how API versions compare in terms of backwards-compatibility.
