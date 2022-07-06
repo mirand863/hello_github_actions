@@ -2,7 +2,7 @@
 This repository shows a basic example on how to use GitHub Actions for automatic version bumping.
 
 ## Premise
-Since we are limited to 5 minutes for the tutorial, I thought of doing it incrementaly. Hence, today is only a short tutorial on automatic version bumping with the semantic versioning scheme.
+Since we are limited to 5 minutes for the tutorial, I thought of doing it incrementaly. Hence, today is only a short tutorial on automatic version bumping with the semantic versioning scheme, but more topics on CI/CD can be offered in future tutorials if there is interest.
 
 ### Why GitHub?
 - GitHub brings more visibility to projects;
@@ -79,6 +79,6 @@ Is there any specific topic you would like to see in a future tutorial? For exam
 - Automatically testing R code
 - Automatic deployment to pypi
 - Automatic deployment to bioconda
-- Something else
+- Something else (can also be topics other people could offer)
 
 I will create a poll on Mattermost.
