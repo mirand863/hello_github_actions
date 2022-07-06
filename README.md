@@ -70,13 +70,15 @@ Try to update the README and see the tag being bumped on the tab actions.
 Try to create a pull request and use the tag #minor or #major (you can also just add the tag to the commit message).
 
 ## Next tutorial
-Is there any specific topic you would like to see in a future tutorial?
-- [ ] Automatic versioning on GitLab
-- [ ] Mirroring a GitHub repository on GitLab
-- [ ] Automatically linting Python code
-- [ ] Automatically linting R code
-- [ ] Automatically testing Python code
-- [ ] Automatically testing R code
-- [ ] Automatic deployment to pypi
-- [ ] Automatic deployment to bioconda
-- [ ] Something else
+Is there any specific topic you would like to see in a future tutorial? For example:
+- Automatic versioning on GitLab
+- Mirroring a GitHub repository on GitLab
+- Automatically linting Python code
+- Automatically linting R code
+- Automatically testing Python code
+- Automatically testing R code
+- Automatic deployment to pypi
+- Automatic deployment to bioconda
+- Something else
+
+Can either vote [here on GitHub](https://github.com/mirand863/hello_github_actions/discussions/4) or I can create a poll on Mattermost.
