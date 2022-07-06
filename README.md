@@ -49,8 +49,8 @@ jobs:
 
       # Tag a new version
       # Default: patch bump
-      # Add #minor to pull request message for a minor bump
-      # Add #major to pull request message for a major bump
+      # Add #minor to pull request or commit message for a minor bump
+      # Add #major to pull request or commit message for a major bump
       - name: Bump version and push tag
         uses: anothrNick/github-tag-action@1.36.0
         env:
