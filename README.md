@@ -73,10 +73,10 @@ Make some modification to any file and try to create a pull request and use the 
 Is there any specific topic you would like to see in a future tutorial? For example:
 - Automatic versioning on GitLab
 - Mirroring a GitHub repository on GitLab
-- Automatically linting Python code
-- Automatically linting R code
-- Automatically testing Python code
-- Automatically testing R code
+- Automatic linting Python code
+- Automatic linting R code
+- Automatic testing Python code
+- Automatic testing R code
 - Automatic deployment to pypi
 - Automatic deployment to bioconda
 - Something else (can also be topics other people could offer)
