@@ -70,7 +70,7 @@ Try to update the README and see the tag being bumped on the tab actions.
 Try to create a pull request and use the tag #minor or #major (you can also just add the tag to the commit message).
 
 ## Next tutorial
-Is there any specific topic you would like to see in a future tutorial? For example:
+Is there any specific topic you would like to see in a future tutorial?
 - [ ] Automatic versioning on GitLab
 - [ ] Mirroring a GitHub repository on GitLab
 - [ ] Automatically linting Python code
